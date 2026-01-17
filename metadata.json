@@ -1,0 +1,7 @@
+{
+  "description": "Ein kreatives Studio powered by Gemini für Bilder, Videos und Live-Interaktion.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": ""
+}
